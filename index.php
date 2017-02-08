@@ -6,8 +6,8 @@
 		<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 		<title>Search github profile</title>
 
-		<link rel="stylesheet" type="text/css" href="/stylesheets/main.css" />
-		<script type="text/javascript" src="/stylesheets/profileGithub.js')"></script>
+		<link rel="stylesheet" type="text/css" href="//stylesheets/main.css" />
+		<script type="text/javascript" src="//stylesheets/profileGithub.js"></script>
 				       
 	</head>
 	<body>
