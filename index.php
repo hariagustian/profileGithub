@@ -7,7 +7,7 @@
 		<title>Search github profile</title>
 
 		<link rel="stylesheet" type="text/css" href="/css/main.css" />
-		<script type="text/javascript" src="/js/profileGithub.js')"></script>
+		<script type="text/javascript" src="/js/profileGithub.js"></script>
 				       
 	</head>
 	<body>
